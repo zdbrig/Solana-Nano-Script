@@ -1,0 +1,4 @@
+
+## Value Proposition
+
+The Solana blockchain, while known for its high throughput and low transaction costs, faces limitations in terms of the maximum number of transactions and computational operations that can be executed within a single block. This constraint poses challenges for running complex trading strategies fully on-chain, especially those requiring extensive computational resources. NanoScript addresses this critical limitation by enabling scripts to run over multiple blocks, allowing for the execution of complex trading strategies fully on-chain. It's important for NanoScript programmers to be aware that information on the blockchain can change in parallel while the NanoScript is executed, as other transactions will also be running in parallel. This solution provides a clear value proposition for executing sophisticated trading strategies on-chain, leveraging Solana's capabilities beyond its current transaction and computational limits.
