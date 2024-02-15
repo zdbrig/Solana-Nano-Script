@@ -11,7 +11,7 @@ NanoScript represents an innovative approach to blockchain scripting on the Sola
 
 - **Fuel**: An internal metering mechanism similar to "gas" in other blockchain ecosystems. Fuel limits and meters the execution of NanoScripts, ensuring efficient use of computational resources and preventing network abuse.
 
-- **C Programming Language Interpreter**: The backbone of NanoScript's execution environment, developed in C to ensure fast, reliable, and precise interpretation of NanoScripts within the Solana virtual machine (VM).
+- **C Programming Language Interpreter**: The backbone of NanoScript's execution environment, developed in Rust to ensure fast, reliable, and precise interpretation of NanoScripts within the Solana virtual machine (VM).
 
 - **Trading Primitives**: NanoScript includes built-in functions tailored for trading operations, such as swapping tokens, managing liquidity pools, and executing orders. These primitives empower developers to build advanced DeFi applications directly on the Solana blockchain.
 
